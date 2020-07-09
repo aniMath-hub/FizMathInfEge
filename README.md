@@ -8,5 +8,5 @@
 <div align='center'>
     **Итак, как же подготовиться к ЕГЭ самостоятельно?**
   Если кратко, то....
-  <div margin-top=30px> ![alt tag](https://i.ibb.co/vsGPJg0/BV.jpg "Описание будет тут")​</div>
+  <div margin-top:30px> ![alt tag](https://i.ibb.co/vsGPJg0/BV.jpg "Описание будет тут") </div>
 </div>
