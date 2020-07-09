@@ -1,5 +1,5 @@
 [Наша группа в вк](https://vk.com/clubmaslov)
-![alt tag](https://ibb.co/XygszNc "Описание будет тут")​
+![alt tag](https://i.ibb.co/vsGPJg0/BV.jpg "Описание будет тут")​
 
 
 
